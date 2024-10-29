@@ -22,7 +22,7 @@ This file demonstrates how to **set up a Cocoa application programmatically**:
 - Assigns a delegate to manage the app's lifecycle events.
 - Starts the run loop.
 
-This example provides a barebones entry point for a macOS application (that does not rely on any visual tools like Nib files or Interface Builder).
+This example provides a barebones entry point for a a Mac app.
 
 ---
 
